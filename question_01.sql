@@ -1,2 +1,3 @@
 SELECT *
-FROM table;
+FROM table
+WHERE state = 'TN';
